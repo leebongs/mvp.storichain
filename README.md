@@ -4,7 +4,7 @@ We are planing to update this consistently.
 These are contained of 3 projects.
 
 # Push Project 
-  This project is all for native apps (iOS, Android) and Chrome browser to push that devices as APNS, FCM and Web Push.
+  This project is all for native apps (iOS, Android) and Chrome browser to send the push messages(APNS, FCM and Web Push) to various devices.
 # API Project
  This provides a lot of Web API for the Storichain Web site and mobile apps.
  
